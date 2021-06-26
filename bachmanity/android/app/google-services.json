@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001925308912",
+    "project_id": "bachmanity-e54cb",
+    "storage_bucket": "bachmanity-e54cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001925308912:android:7bd37303825fac8a926d35",
+        "android_client_info": {
+          "package_name": "com.example.bachmanity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001925308912-2u4tf39r8cdh9sluju8r9j2rnaumucst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4VP_wv2jYeLHZ0xpy6e-Ps2dNOUGvBPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001925308912-2u4tf39r8cdh9sluju8r9j2rnaumucst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
